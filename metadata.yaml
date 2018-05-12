@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25945
     wikipedia: http://fr.wikipedia.org/wiki/Louis_Figuier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41849#The-Human-Race
 gutenberg_issued: '2013-01-15'
 gutenberg_type: Text
 identifiers:
